@@ -1,1 +1,1 @@
-# sln_viznas_iot
+# sln_rt106f_hw_validation reference package
